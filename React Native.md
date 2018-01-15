@@ -141,6 +141,3 @@ class MyComponent extends Component {
 * note how the constructure takes in and calls super with **props object**
 
 * Redux could also be used in lue of `setState()`.
-
-`
-
