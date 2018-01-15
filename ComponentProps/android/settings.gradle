@@ -1,0 +1,3 @@
+rootProject.name = 'ComponentProps'
+
+include ':app'
